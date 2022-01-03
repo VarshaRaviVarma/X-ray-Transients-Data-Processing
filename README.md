@@ -50,7 +50,7 @@ Scanning Sky Monitor (SSM) is one of the payloads on AstroSat [Agrawal, 2006, Si
 
 The project includes organizing the data and building a GUI to surf through the data and allow specific selection based on time periods. We are using Kivy to build the GUI.  After the GUI is built, a back-end will be prepared using python programming language. The end result is a graph that shows detection of a transient. The graph is built using Matplotlib.
 
-## Literature Survey
+## Literature Review
 
 Aarran Shaw, Phil Charles [1]:X-ray astronomy is impossible at the surface of the Earth – our atmosphere absorbs this part of the electromagnetic spectrum. Development of X-ray astronomy had to wait until X-ray detectors could be launched into space. Cosmic X-ray astronomy began in 1962 with the discovery of the first extrasolar X-ray source, Sco X-1, using rocket-borne instruments, a technology that was to dominate during the rapid advance of the field during the rest of the 1960s. Rocket flights offer only limited observation time, between 3 and 5 minutes per flight, but there were enough of them offering regular sampling of the galactic plane to identify, in May 1967, a source that had not been there when the region was last explored in 1965, and which had disappeared when its position was scanned again in September 1967. The first transient X-ray source, Cen X-2, had been discovered.
 
